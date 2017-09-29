@@ -1,2 +1,4 @@
 # alice-bob-repo
-A lab repo for COS243.
+Our readme for the lab!!!
+
+9/29/2017
